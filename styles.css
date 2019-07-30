@@ -1,0 +1,47 @@
+*{
+  margin-top:5px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+h1{
+  color: #FFFFFF;
+  background-color: #C0C0C0;
+  font-family: 'Darker Grotesque', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+h3{
+  color:#C0C0C0;
+  display: flex;
+  justify-content: center;
+  font-family: 'Abel', sans-serif;
+  font-family: 'Barlow', sans-serif;
+  font-size: 20px;
+}
+
+body{
+  background-color: white;
+}
+
+img{
+  width: 300px;
+  height: 300px;
+  object-fit:cover;
+  margin-top: -5px;
+}
+
+p{
+  display: flex;
+  justify-content: center;
+  font-family: 'Abel', sans-serif;
+  font-family: 'Barlow', sans-serif;
+}
+
+section{
+margin-left: 250px;
+margin-right: 250px;
+}
